@@ -1,0 +1,14 @@
+{
+  "logo": {
+    "imagePath": "/src/assets/global/logo/imagePath.svg",
+    "title": "Pierre y Marie Curie"
+  },
+  "pages": [
+    {
+      "title": "Hola"
+    }
+  ],
+  "actions": [],
+  "contacts": {},
+  "socials": []
+}

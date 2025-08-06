@@ -4,23 +4,23 @@
 	},
 	"pages": [
 		{
-			"title": "Home",
+			"title": "Inicio",
 			"link": "/"
 		},
 		{
-			"title": "About",
+			"title": "Acerca de",
 			"link": "/about"
 		},
 		{
-			"title": "Works",
+			"title": "Proyectos",
 			"link": "/works"
 		},
 		{
-			"title": "News",
+			"title": "Noticias",
 			"link": "/news"
 		},
 		{
-			"title": "Contacts",
+			"title": "Contacto",
 			"link": "/contact"
 		}
 	],
